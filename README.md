@@ -3,6 +3,8 @@ I'm Ariel Sokolsky, and I like working on projects in my free time!
 
 I especially like programming in Assembly, C and C++.
 
+one of my favorite thinsg to do in my spare to is electronics
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielsokolsky&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsokolsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
